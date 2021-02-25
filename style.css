@@ -1,0 +1,107 @@
+body {
+  background: #ebfffe;
+}
+
+.name{
+  text-align: center;
+}
+
+#header {
+  text-align: center;
+  color: #102542;
+  font-family: Times, bold;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.Emma {
+  position: center;
+  text-align: center;
+}
+
+.textbox {
+  display: none;
+}
+
+.boxed:hover>.texbox {
+  display: contents;
+  position: center;
+  top: 30em;
+  left: 30em;
+  background: #fff;
+  border: 1px solid navy;
+  font-size: 10px;
+}
+
+.h3 {
+  text-align: center;
+  color: #102542;
+  font-family: Times, bold;
+  font-size: 12px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+table {
+    text-align: center;
+    font-family: Times;
+
+  }
+
+  td {
+    padding-bottom: 20px;
+  }
+
+  img {
+    width: 200px;
+    height: 200px;
+    border: 5px;
+    border-color: black;
+  }
+
+#photo:hover {
+  /* width: 220px;
+  height: 220px; */
+  -moz-box-shadow: 0 0 10px #3e4b96;
+  -webkit-box-shadow: 0 0 10px #3e4b96;
+  box-shadow: 0 0 10px #3e4b96;
+}
+
+#photoC {
+  /* width: 0px;
+  height: 220px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#country_text {
+   background-color: white;
+   width: 300px;
+   border: 5px solid #d2ded2;
+   padding: 20px;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   text-align: center;
+}
+
+button {
+  border: none;
+  color: #7490a0;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-family: Times;
+  cursor: pointer;
+}
+
+a {
+text-decoration: none;
+
+}
