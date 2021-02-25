@@ -15,10 +15,10 @@
   align-items: center;
 }
 #light {
-  background: #e8e8e8;
+  background: #e8e8a3;
 }
 #dark {
-  background: #131318;
+  background: #0658c4;
 }
 .container {
   display: flex;
@@ -27,7 +27,7 @@
   width: 600px;
   margin: 0 auto;
   background: #fff;
-  border-radius: 10px;
+  border-radius: 20px;
 }
 .person {
   width: 196px;
