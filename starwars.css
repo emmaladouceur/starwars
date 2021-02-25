@@ -1,5 +1,4 @@
-/* comment */
-
+/* you'll notice that some of the helmet is different and the hair on finn is also now blue */
 /* Layout Stuff */
 * {
   box-sizing: border-box;
@@ -15,10 +14,10 @@
   align-items: center;
 }
 #light {
-  background: #e8e8a3;
+  background: #e8e8e8;
 }
 #dark {
-  background: #0658c4;
+  background: #131318;
 }
 .container {
   display: flex;
@@ -27,7 +26,7 @@
   width: 600px;
   margin: 0 auto;
   background: #fff;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .person {
   width: 196px;
@@ -75,7 +74,7 @@
   top: 43px;
   width: 80px;
   height: 80px;
-  background: #33292a;
+  background: #0658c4;
   border-radius: 50%;
 }
 #finn .ear {
@@ -1081,7 +1080,7 @@
   right: 33%;
   width: 10px;
   height: 0;
-  background: #e53935;
+  background: #e53;
   z-index: 10;
   border-radius: 50% 50% 0 0;
   transform: rotate(-30deg);
@@ -1365,3 +1364,4 @@
   left: 50%;
   transform: translateX(-50%);
 }
+
